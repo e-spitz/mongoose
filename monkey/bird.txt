@@ -1,0 +1,28 @@
+Bird
+
+Attributes
+canFly (boolean)
+beakSize (float)
+species (string)
+featherColors [array]
+
+Methods
+breakWing (changes canFly boolean)
+growBeak (updates beakSize)
+changeColors (changes featherColors)
+reidentifySpecies (updates species attribute)
+
+Instance
+
+Emperor Penguin
+
+canfly - "false"
+beakSize - 4.25
+species - "Penguin"
+featherColors - ["black", "white", "yellow", "grey"]
+
+Methods
+breakWing - false
+growBeak - 4.28
+changeColors - add "magenta" to featherColors
+reidentifySpecies - "macaroni penguin"
